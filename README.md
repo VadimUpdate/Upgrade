@@ -1,14 +1,6 @@
 <!-- Banner Section -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5ca76775-ce1a-4458-a823-d1077aa31268" alt="standard"/>
-</p>
 
 
-# 👋 Hi, I'm Vadim!
-
-👨‍💻 Cybersecurity student | 🐍 Python enthusiast  
-🔐 Breaking barriers, not systems | 🚀 Building exciting tools.  
-🎯 Currently crafting smarter and faster.
 
 ---
 

@@ -26,18 +26,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balram-1&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Balram's GitHub Stats" />
- </p>
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balram-1&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
-</p>
-
----
 
 ## 🟩 Contribution Activity
 
@@ -55,27 +43,6 @@
 </p>
 
 ---
-
-## 🛒 My Sellauth Store
-
-- [UltimateTools Sellauth](https://ultimatetools.mysellauth.com/)
-
----
-
-## 🌐 My Website
-
-[flexamcfun my site](https://www.flexamc.fun/)
-[loopdev](https://loopdev.xyz/)
-
----
-
-## 📞 Contact
-
-- Discord: **@balrampreet1** / **@balramog**
-- Gmail: **balrampreet116699@gmail.com**
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 </p>

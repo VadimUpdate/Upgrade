@@ -1,9 +1,13 @@
 <!-- Banner Section -->
 
-
 ## 🛠 Technologies I Use
 
-<div align="center" style="background-image: url('https://i.ibb.co/7G5y3Q4/animated-gradient-bg.gif'); background-size: cover; border-radius: 15px; padding: 25px;">
+<div align="center" style="
+  background-image: url('https://i.ibb.co/your-neon-gradient.gif');
+  background-size: cover;
+  border-radius: 15px;
+  padding: 25px;
+">
 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -18,7 +22,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
-
 
 ## 🟩 Contribution Activity
 

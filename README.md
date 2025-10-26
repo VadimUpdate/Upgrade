@@ -1,5 +1,12 @@
+<!-- Banner Section -->
+
+## 🛠 Technologies I Use
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9c/14/86/9c14863b9e64ffc65cdfda4cdc9a0b99.gif" width="100%" />
+  <video autoplay loop muted playsinline width="100%">
+    <source src="https://v1.pinimg.com/videos/mc/720p/e8/59/cb/e859cb9ede570cd41bd3c07f0ad431f4.mp4" type="video/mp4">
+    Ваш браузер не поддерживает видео.
+  </video>
 </p>
 
 <p align="center">

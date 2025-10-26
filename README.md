@@ -3,7 +3,7 @@
 ## 🛠 Technologies I Use
 
 <div align="center" style="
-  background-image: url('https://i.ibb.co/your-neon-gradient.gif');
+  background-image: url('https://i.pinimg.com/originals/be/d2/59/bed2591f723244f07bc4bf382f97103c.gif');
   background-size: cover;
   border-radius: 15px;
   padding: 25px;

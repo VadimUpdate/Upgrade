@@ -1,12 +1,5 @@
-<!-- Banner Section -->
-
-## 🛠 Technologies I Use
-
 <p align="center">
-  <video autoplay loop muted playsinline width="100%">
-    <source src="https://v1.pinimg.com/videos/mc/720p/e8/59/cb/e859cb9ede570cd41bd3c07f0ad431f4.mp4" type="video/mp4">
-    Ваш браузер не поддерживает видео.
-  </video>
+  <img src="https://d2h58dsjpbzmve.cloudfront.net/56h0y%2Fpreview%2F72130794%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1761482271&Signature=FS2WUAq0ALJOVpK4t~toyrYGgF0cR64qc2Ao1rumZ0SGRxLYQK0PDUr7PGDt4D05N3lMRrDaznusjTssBs2lf3DzZiZbEQCe7fPjZYSJ6MJSE7d2CG9E14y~Ejo5y8uMSfFA3zldIYcUal0BaAM5UHGyerAJi7AbA2nyVX2y4KrPmxKct61GiMMWA2pcIDxXKzFuz41NHxFDBpzMlEW8MiKb6fHmOPOZZnp-ug6h2c8h9tUDSlnE2AqJ7rixUJKZ5eTR8ds1Bk4zsxMFTSEC9~bUagDntsSnrHvuaja-PXr~uxu2U~Hc85zg3xLIfEDV4JyfVC~as~7o74yOYUli5g__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="100%" />
 </p>
 
 <p align="center">

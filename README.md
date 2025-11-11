@@ -18,4 +18,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
-![photo_2025-11-09_23-06-35](https://github.com/user-attachments/assets/5e9845b8-09ac-40ad-9eb3-acd388add39e)
